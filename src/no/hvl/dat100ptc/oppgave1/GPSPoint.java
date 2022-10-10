@@ -44,6 +44,7 @@ public class GPSPoint {
 		
 	}
 
+	
 	public void setLatitude(double latitude) {
 		
 		//throw new UnsupportedOperationException(TODO.method());
